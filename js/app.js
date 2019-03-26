@@ -148,9 +148,10 @@ console.log(grossAllBondFilms);
 
 
 // 6 . 
-const oddBonds = []
-if (i % 2 !== 0 ){
 
+let oddBonds = 0;
+for( let i = 0; i < oddBonds.length) {
+if (i % 2 !== 0 );
 bondFilms.push([i].oddBonds); 
 } 
 
